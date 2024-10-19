@@ -10,10 +10,10 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This project is a
 - **Strings**: Manipulation, common operations, and algorithms.
 - **Practice Tasks**: Sample operations and tasks related to these topics.
 
-**Key Files**:
-- `arrays.js`: Implementations and operations related to arrays.
-- `linkedLists.js`: Code for single and double linked lists.
-- `strings.js`: String manipulation and common algorithms.
+**Key Folders**:
+- `arrays`: Implementations and operations related to arrays.
+- `linkedLists`: Code for single and double linked lists.
+- `strings`: String manipulation and common algorithms.
 
 ## Week 2: Intermediate Data Structures and Sorting Algorithms
 **Content Covered**:
@@ -27,11 +27,11 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This project is a
   - **Merge Sort**
   - **Quick Sort**
 
-**Key Files**:
-- `stacks.js`: Implementation and operations for stacks.
-- `queues.js`: Code for different types of queues.
-- `hashTables.js`: Hash table implementation and collision handling.
-- `sortingAlgorithms.js`: Various sorting algorithms implemented and explained.
+**Key Folders**:
+- `stack`: Implementation and operations for stacks.
+- `queue`: Code for different types of queues.
+- `HashTable`: Hash table implementation and collision handling.
+- `Algorithms`: Various sorting algorithms implemented and explained.
 
 ## Week 3: Advanced Topics (To be added after completion)
 **Content Covered**:
@@ -43,4 +43,4 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This project is a
 ## How to Use This Repository
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dsa-js.git
+   git clone https://github.com/hashim6789/DSA-in-JS.git
