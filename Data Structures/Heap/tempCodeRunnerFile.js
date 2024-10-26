@@ -1,2 +1,2 @@
-console.log(heap1.extractMin());
-// console.log(heap1.extractMin());
+nsole.log(heap2.peek());
+// console.log(heap2.heap);

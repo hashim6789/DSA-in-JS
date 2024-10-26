@@ -236,9 +236,9 @@ console.log(bst1.search(bst1.root, 50));
 
 console.log("sum of nodes = ", bst1.sumOfNodes(bst1.root.left));
 
-console.log(bst1.findClosest(86));
-console.log(bst1.findMin(bst1.root));
-console.log(bst1.findMax(bst1.root));
+// console.log(bst1.findClosest(86));
+// console.log(bst1.findMin(bst1.root));
+// console.log(bst1.findMax(bst1.root));
 console.log(bst1.findHeight(bst1.root));
 
 bst1.root.left = new Node(100);

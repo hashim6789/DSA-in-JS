@@ -1,3 +1,4 @@
-i = 1;
-// key = 3;
-// j = -(1)[(3, 5)];
+for (let i = arr.length - 1; i >= 0; i--) {
+    [arr[i], arr[0]] = [arr[0], arr[i]];
+    heapDown(arr, i);
+  }
